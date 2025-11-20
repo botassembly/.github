@@ -3,4 +3,4 @@
   <img src="../images/botassembly_name.png" alt="BotAssembly wordmark" height="72" style="vertical-align: middle; margin-left: 12px;" />
 </p>
 
-<p align="center"><i>Toys for bots. Toys for bots. Toys for agents to do stuff with. Coming soon.</i></p>
+<p align="center"><i>Toys for bots. Coming soon.</i></p>
