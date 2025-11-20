@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="120" viewBox="0 0 480 120">
-  <rect width="480" height="120" fill="#0d1117" rx="16"/>
-  <text x="50%" y="60%" text-anchor="middle" fill="#48d1c5" font-family="Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="2">
-    BotAssembly
-  </text>
-  <text x="50%" y="82%" text-anchor="middle" fill="#9ca3af" font-family="Arial, sans-serif" font-size="16" letter-spacing="3">
-    toys for bots
-  </text>
-</svg>
