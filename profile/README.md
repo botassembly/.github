@@ -5,6 +5,6 @@
   </picture>
 </p>
 
-Open-source tools for running language models from the shell. MIT licensed.
+**Agents that show their work.** Open source, MIT licensed.
 
 - **[botassembly](https://github.com/botassembly/botassembly)**: a folder of Markdown files runs as an agent workflow, and every run leaves a record on disk. Docs at [botassembly.org](https://botassembly.org).
